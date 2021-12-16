@@ -1,1 +1,1 @@
-# Zuri-Python-Training-Task
+# Zuri-Training-Python-Tasks
